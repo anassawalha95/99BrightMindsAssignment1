@@ -1,0 +1,14 @@
+Dec 13, 2021 2:12:59 AM Operations findAndPrintUserBasedOnCustomerReferenceNumber
+INFO: The user entered: 12
+Dec 13, 2021 2:12:59 AM Operations findAndPrintUserBasedOnCustomerReferenceNumber
+INFO: user called findAndPrintUserBasedOnCustomerReferenceNumber function
+Dec 13, 2021 2:13:56 AM Operations printUser
+INFO: user called printUser function
+Dec 13, 2021 2:13:56 AM Operations printUser
+INFO: user called printUser function
+Dec 13, 2021 2:13:56 AM Operations printUser
+INFO: user called printUser function
+Dec 13, 2021 2:13:56 AM Operations printUser
+INFO: user called printUser function
+Dec 13, 2021 2:13:56 AM Operations printUsersWithValidEmail
+INFO: user called printUsersWithValidEmail function
